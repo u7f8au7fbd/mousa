@@ -12,6 +12,9 @@ crossterm = "*"
 #音声ライブラリ
 cpal = "*"
 rodio = "*"
+hound = "*"
+kira = "*"
+rubato = "*"
 
 [profile.dev]
 opt-level = 1

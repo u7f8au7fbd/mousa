@@ -11,6 +11,7 @@ ratatui = "*"
 crossterm = "*"
 #音声ライブラリ
 cpal = "*"
+rodio = "*"
 
 [profile.dev]
 opt-level = 1
